@@ -1,2 +1,0 @@
-# GO
-TYBCA - GO lab

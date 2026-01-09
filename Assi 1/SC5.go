@@ -23,4 +23,4 @@ func main() {
 	} else {
 		fmt.Println(str2, "is not a substring of", str1)
 	}
-}
+} 

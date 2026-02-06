@@ -1,4 +1,3 @@
-//create and print multidimensional slice
 package main
 
 import "fmt"

@@ -1,4 +1,3 @@
-//accept two matrices and display its multiplication
 package main
 
 import "fmt"

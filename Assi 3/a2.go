@@ -1,4 +1,3 @@
-//accept the book details such as book id, book name, author name from the user and display the book details.
 package main
 
 import "fmt"

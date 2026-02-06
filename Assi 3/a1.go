@@ -1,5 +1,3 @@
-//wap in go lang. to find the largest and smallest number in an array.
-
 package main
 
 import "fmt"
@@ -29,4 +27,4 @@ func main() {
 
 	fmt.Printf("Largest number: %d\n", largest)
 	fmt.Printf("Smallest number: %d\n", smallest)
-}	
+}

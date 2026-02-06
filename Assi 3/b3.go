@@ -1,4 +1,3 @@
-// accept n student details such as student id, name,mark1,mark2,mark3 .calculate total  and average of marks using structure.
 package main
 
 import "fmt"

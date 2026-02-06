@@ -1,4 +1,3 @@
-//accept n records of employee information (ename ,id,salary) using structure and display the employee details having maximum salary.
 package main
 
 import "fmt"

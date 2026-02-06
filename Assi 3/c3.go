@@ -1,4 +1,3 @@
-//demonstrate working of slices(like append ,remove,copy etc)
 package main
 
 import (

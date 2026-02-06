@@ -1,4 +1,3 @@
-//initialize a slice using multiline syntax and display
 package main
 
 import "fmt"
